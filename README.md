@@ -4,8 +4,6 @@ with an Implement a function to fetch weather data from a public weather API, su
 that searches for name of City to determine temperature, humidity windspeed 
 and a graphical representation of the current weather (e.g., sunny, cloudy, rainy).
 
-Tap to Review the Deployment Link for the weather-dashboard Project (https://my-weather-dashboard-app.netlify.app)
-
 Review the UI/UX Design for my weather-dasboard Project (https://www.figma.com/design/LFykoci3NWSVTS2zZCxfzQ/FE-Capstone-Project_Weather-dashboard?node-id=1-2&t=R19lTvrnN3otkick-0)
 
 Review the idea documentation for my weather dashboard Project (https://docs.google.com/document/d/17PXwx5psD9KQ5x_jqlvS3ito-N0qwlCQygNsxvjzMzM/edit?usp=sharing)
